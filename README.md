@@ -5,3 +5,7 @@ In the notebook I have decided to track ARRIVAL_DELAYs with the day of the week 
 
 
 There are 3 CSVs downloaded, the main CSV, flights.csv was too large to download to gitlab (more than 100mb even after zipping)
+
+
+
+Origin of CSV data: https://www.kaggle.com/code/adveros/flight-delay-eda-exploratory-data-analysis
